@@ -8,7 +8,7 @@ import os
 import datetime
 
 # === KONFIGURASI ===
-GEMINI_API_KEY = "AIzaSyDUIK2UDMSc0Sj84Qk7zojI3fDASGJ8ryM"
+GEMINI_API_KEY = "API KEY GEMINI"
 DOC_FILENAME = "sumber.txt"
 TEMPERATURE = 0.9
 
