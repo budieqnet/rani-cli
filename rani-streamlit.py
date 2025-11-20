@@ -1,4 +1,5 @@
-# rani_termux.py
+# rani-streamlit.py
+# jalankan dengan perintah streamlit run rani-streamlit.py
 import streamlit as st
 import google.generativeai as genai
 import numpy as np
